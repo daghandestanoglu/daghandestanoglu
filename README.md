@@ -1,16 +1,27 @@
-## Hi there 👋
+# Merhaba, Ben Dağhan Giray Destanoğlu
 
-<!--
-**daghandestanoglu/daghandestanoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python ve C dilleri ile yazılım geliştiren bir programcıyım. 
+Algoritmalar, sistem programlama ve problem çözme üzerine çalışıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hakkımda
+
+- Python ile uygulama ve otomasyon geliştiriyorum
+- C ile temel sistem ve algoritma projeleri yazıyorum
+- Veri yapıları ve algoritmalar üzerine çalışıyorum
+- Kendimi sürekli geliştirmeye odaklıyım
+
+---
+
+## Kullandığım Diller
+
+- Python
+- C
+
+---
+
+
+## İletişim
+
+- Email: daghandestanoglu1@gmail.com
