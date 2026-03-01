@@ -16,7 +16,7 @@ Algoritmalar, sistem programlama ve problem çözme üzerine çalışıyorum.
 
 ## Kullandığım Diller
 
-- Python
+- Python<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" alt="drawing" width="15" height="15"/>
 - C
 
 ---
