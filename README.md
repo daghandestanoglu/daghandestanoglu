@@ -22,6 +22,6 @@ Algoritmalar, sistem programlama ve problem çözme üzerine çalışıyorum.
 ---
 
 
-## İletişim
+##  İletişim
 
 - Email: daghandestanoglu1@gmail.com
